@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Owner",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "This is GO PLAY Season 2",
+        "U can claim land As U can Do before",
+        "I am OWNERS And Always Stay In Server IF Any One Cheat Just Tell me There Name"
       ]
     },
     "chat-log": true,
