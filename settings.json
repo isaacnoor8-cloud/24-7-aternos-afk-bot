@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "GO_PLAYS.aternos.me",
-    "port": 26819,
+    "port": 2619,
     "version": "1.21.11",
     "try-creative": false
   },
