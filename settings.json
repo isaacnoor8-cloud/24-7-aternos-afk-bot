@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GO_PLAYS.aternos.me",
-    "port": 2619,
+    "ip": "GO_PLAYS2.aternos.me",
+    "port": 26819,
     "version": "1.21.11",
     "try-creative": false
   },
